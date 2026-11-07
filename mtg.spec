@@ -1,7 +1,7 @@
 %define debug_package %{nil}
 
 Name:           mtg
-Version:        2.2.8
+Version:        2.3.0
 Release:        1%{?dist}
 Summary:        Highly opinionated MTPROTO proxy for Telegram
 
